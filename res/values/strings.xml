@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">English</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_name">Пустое имя пользователя</string>
+    <string name="name">Ваше имя</string>
+    <string name="ok">ОК</string>
+    <string name="words">Слова</string>
+    <string name="kadr25">25 кадр</string>
+    <string name="asociat_card">Асоціативні картки</string>
+    <string name="two_word_kard">Двухстороні картки</string>
+    <string name="delete_statistic">Сбити статистику</string>
+    <string name="statistics">Статистика</string>
+    <string name="exit">Вийти</string>
+    <string name="info">Інфо про програму</string>
+    <string name="prew_10">Попередні 10</string>
+    <string name="next_10">Наступні 10</string>
+    <string name="study">Вчити</string>
+    <string name="hide">Сховати</string>
+    <string name="show">Показати</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="meny">Меню</string>
+    <string name="repeat">Еще раз</string>
+    <string name="english">English</string>
+    <string name="russian">Русский</string>
+    <string name="no_added_words">Нет добавленых слов</string>
+    <string name="empty_words">Больше нет слов, попробуйде в другую сторону</string>
+    <string name="last_rezult">Предедущий результат</string>
+    <string name="rezult_now">Последний результат</string>
+
+</resources>

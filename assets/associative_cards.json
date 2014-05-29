@@ -1,0 +1,178 @@
+[
+{
+"img": "img_artist.jpg",
+"v1": "artist",
+"v2": "random",
+"v3": "random",
+"v4": "random",
+"right": "artist"
+},
+{
+"img": "img_businessman.jpg",
+"v1": "random",
+"v2": "businessman",
+"v3": "random",
+"v4": "random",
+"right": "businessman"
+},
+{
+"img": "img_doctor.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "random",
+"v4": "doctor",
+"right": "doctor"
+},
+{
+"img": "img_farmer.jpg",
+"v1": "random",
+"v2": "farmer",
+"v3": "random",
+"v4": "random",
+"right": "farmer"
+},
+{
+"img": "img_journalist.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "journalist",
+"v4": "random",
+"right": "journalist"
+},
+{
+"img": "img_mechanic.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "mechanic",
+"v4": "random",
+"right": "mechanic"
+},
+{
+"img": "img_musician.jpg",
+"v1": "random",
+"v2": "musician",
+"v3": "random",
+"v4": "random",
+"right": "musician"
+},
+{
+"img": "img_sailor.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "sailor",
+"v4": "random",
+"right": "sailor"
+},
+{
+"img": "img_sportsman.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "random",
+"v4": "sportsman",
+"right": "sportsman"
+},
+{
+"img": "img_teacher.jpg",
+"v1": "random",
+"v2": "teacher",
+"v3": "random",
+"v4": "random",
+"right": "teacher"
+},
+{
+"img": "img_armchair.jpg",
+"v1": "armchair",
+"v2": "random",
+"v3": "random",
+"v4": "random",
+"right": "armchair"
+},
+{
+"img": "img_bed.jpg",
+"v1": "bed",
+"v2": "random",
+"v3": "random",
+"v4": "random",
+"right": "bed"
+},
+{
+"img": "img_chair.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "random",
+"v4": "chair",
+"right": "chair"
+},
+{
+"img": "img_lamp.jpg",
+"v1": "random",
+"v2": "lamp",
+"v3": "random",
+"v4": "random",
+"right": "lamp"
+},
+{
+"img": "img_mirror.jpg",
+"v1": "mirror",
+"v2": "random",
+"v3": "random",
+"v4": "random",
+"right": "mirror"
+},
+{
+"img": "img_picture.jpg",
+"v1": "random",
+"v2": "picture",
+"v3": "random",
+"v4": "random",
+"right": "picture"
+},
+{
+"img": "img_sofa.jpg",
+"v1": "random",
+"v2": "sofa",
+"v3": "random",
+"v4": "random",
+"right": "sofa"
+},
+{
+"img": "img_table.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "table",
+"v4": "random",
+"right": "table"
+},
+{
+"img": "img_vase.jpg",
+"v1": "vase",
+"v2": "random",
+"v3": "random",
+"v4": "random",
+"right": "vase"
+},
+{
+"img": "img_wardrobe.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "wardrobe",
+"v4": "random",
+"right": "wardrobe"
+},
+{
+"img": "img_tvset.jpg",
+"v1": "random",
+"v2": "random",
+"v3": "random",
+"v4": "TV set",
+"right": "TV set"
+},
+{
+"img": "img_iron.jpg",
+"v1": "random",
+"v2": "iron",
+"v3": "random",
+"v4": "random",
+"right": "iron"
+}
+]
