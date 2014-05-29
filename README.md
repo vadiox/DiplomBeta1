@@ -3,7 +3,7 @@ DiplomBeta1
 
 DiplomAlmostReady
 
-//Потрібно підключити ActionBarSherlock (http://actionbarsherlock.com) 
+//Потрібно підключити бібліотеку ActionBarSherlock (http://actionbarsherlock.com) 
 
 Програмний комплекс для вивчення англійської мови
 
